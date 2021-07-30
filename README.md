@@ -1,4 +1,4 @@
-# Coffee machine
+# OPP Coffee machine
 This little script simulates a coffee machine.
 
 ## Successful buy
